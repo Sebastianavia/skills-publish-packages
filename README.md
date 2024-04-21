@@ -120,8 +120,46 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ---
 
+
+
+
+
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/publish-packages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+
+
+
+Login.
+---
+
+![image](https://github.com/Sebastianavia/skills-publish-packages/assets/71205906/56f84a9d-7bac-4b84-b324-68b31e5cced6)
+
+---
+
+Docker pull.
+---
+
+![image](https://github.com/Sebastianavia/skills-publish-packages/assets/71205906/4cf88028-b20d-4021-a021-c330d72e5486)
+
+---
+
+Docker run.
+---
+
+![image](https://github.com/Sebastianavia/skills-publish-packages/assets/71205906/38937a7f-8343-4c20-95f0-e5dab95967a2)
+
+---
+
+![image](https://github.com/Sebastianavia/skills-publish-packages/assets/71205906/2f3084fc-d7ef-495a-aed4-9560abcfce5e)
+
+---
+With "localhost:8080",  you start the test.
+---
+
+![image](https://github.com/Sebastianavia/skills-publish-packages/assets/71205906/c3b9edd8-059b-48db-be39-0aa4ad8e8e81)
+
+---
